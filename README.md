@@ -6,7 +6,7 @@ Welcome to the Weather App! This application provides real-time weather informat
 
 To run the Weather App successfully, follow these steps:
 
-1. **Update `ApiKEY` Value in `gradle.properties` File**
+1. **Update `API_KEY` Value in `gradle.properties` File**
    
    - Replace the placeholder API key with your original API key in the `gradle.properties` file.  
    - For reference, you can check this link: [gradle.properties file](https://github.com/AkashSingh1505/Weather-App/blob/master/gradle.properties).
@@ -19,6 +19,6 @@ To run the Weather App successfully, follow these steps:
 
 To test the Weather App directly, you can download the APK from the following link:
 
-- [Weather App APK](https://example.com/download-weather-app) _(Insert the actual publicly downloadable link here)_
+- [Weather App APK](https://drive.google.com/file/d/1FRz37bgp346WfThPl6_N4lOcDtwGZUvU/view?usp=sharing) _(Insert the actual publicly downloadable link here)_
 
 Enjoy the real-time weather updates!
