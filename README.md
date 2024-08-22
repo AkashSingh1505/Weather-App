@@ -1,10 +1,15 @@
+# Weather App
 
-### Key Points:
+This is a weather application that provides real-time weather information based on your location. The app retrieves weather data from an external API and displays it in a user-friendly interface.
 
-- **API Key Setup:** Instructions to add the API key to `gradle.properties`.
-- **Sync Gradle:** How to sync the project with Gradle after adding the API key.
-- **Build and Run:** Steps to build and run the project.
-- **Contributing:** Guidelines for contributing to the project.
-- **License and Contact:** Standard sections for license and contact information.
+## Setup Instructions
 
-Make sure to replace placeholders such as the repository URL and contact email with actual information relevant to your project.
+Follow these steps to set up and run the project on your local machine:
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone <repository-URL>
+cd <repository-directory>
