@@ -19,6 +19,6 @@ To run the Weather App successfully, follow these steps:
 
 To test the Weather App directly, you can download the APK from the following link:
 
-- [Weather App APK](https://drive.google.com/file/d/1FRz37bgp346WfThPl6_N4lOcDtwGZUvU/view?usp=sharing) _(Insert the actual publicly downloadable link here)_
+- [Weather App APK](https://drive.google.com/file/d/1FRz37bgp346WfThPl6_N4lOcDtwGZUvU/view?usp=sharing)
 
 Enjoy the real-time weather updates!
